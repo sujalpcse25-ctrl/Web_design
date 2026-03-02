@@ -8,8 +8,7 @@
     <th>Day/Time</th>
     <th>7-8</th>
     <th>8-9</th>
-    <th>9-10</th>
-    <th>10-11</th>
+    <th colspan = "6">9-10</th>
 </tr>
     <th>Monday</th>
     <th>SMP</th>
