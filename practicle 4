@@ -14,7 +14,7 @@
     <th>Monday</th>
     <th>SMP</th>
     <th>Chemistry</th>
-    <th>Dinner</th>
+    <th rowspan = "6">Dinner</th>
     <th>Social meadia</th>
 </tr>
 </tr>
